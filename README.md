@@ -1,4 +1,2 @@
 #    fraud_transaction  detection
-      deigned by-Diksha sharna 
-                  Mohammad Danish
-                  Nitin kushwaha
+      deigned by- Nitin kushwaha
